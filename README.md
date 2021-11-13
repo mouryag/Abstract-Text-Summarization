@@ -4,6 +4,10 @@ This is a project where we can provide lagre news articles or text as input to i
 
 ![ouput1](output_summarization1.jpg)
 <br/>
+<br/>
+<br/>
+====================================================================================================================================================================
+<br/>
 ![ouput2](output_summarization2.jpg)
 <br/>
 **Output of the news articles with predicted headline marked with blue colur and original headline**
