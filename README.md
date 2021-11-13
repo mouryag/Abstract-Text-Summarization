@@ -6,7 +6,6 @@ This is a project where we can provide lagre news articles or text as input to i
 <br/>
 <br/>
 <br/>
-====================================================================================================================================================================
 <br/>
 ![ouput2](output_summarization2.jpg)
 <br/>
